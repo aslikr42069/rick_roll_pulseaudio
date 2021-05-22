@@ -8,4 +8,4 @@ git clone https://github.com/aslikr42069/rick_roll_pulseaudio.git
 cd rick_roll_pulseaudio
 make
 ```
-then run ./play if you want to play
+then run ./play if you want to play the audio
